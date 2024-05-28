@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Filament\Resources;
+namespace App\Filament\Student\Resources;
 
-use App\Filament\Resources\ConsulingResource\Pages;
-use App\Filament\Resources\ConsulingResource\RelationManagers;
+use App\Filament\Student\Resources\ConsulingResource\Pages;
+use App\Filament\Student\Resources\ConsulingResource\RelationManagers;
 use App\Models\Consuling;
 use Filament\Forms;
 use Filament\Forms\Form;
